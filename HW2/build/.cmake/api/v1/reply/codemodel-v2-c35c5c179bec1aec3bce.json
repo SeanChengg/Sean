@@ -1040,7 +1040,7 @@
 						0,
 						81
 					],
-					"name" : "pico_examples",
+					"name" : "nick_pico_examples",
 					"targetIndexes" : 
 					[
 						0,
@@ -1148,7 +1148,7 @@
 				{
 					"directoryIndex" : 81,
 					"id" : "ELF2UF2Build::@655f412016ec51306758",
-					"jsonFile" : "target-ELF2UF2Build-Debug-a61beaad41171e1f6429.json",
+					"jsonFile" : "target-ELF2UF2Build-Debug-830454c18a26f466ce62.json",
 					"name" : "ELF2UF2Build",
 					"projectIndex" : 0
 				},
@@ -1162,7 +1162,7 @@
 				{
 					"directoryIndex" : 81,
 					"id" : "blink::@655f412016ec51306758",
-					"jsonFile" : "target-blink-Debug-a9ec732351b5477fe0c8.json",
+					"jsonFile" : "target-blink-Debug-f9807e5eda5875b0af72.json",
 					"name" : "blink",
 					"projectIndex" : 0
 				},

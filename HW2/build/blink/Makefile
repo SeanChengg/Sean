@@ -144,6 +144,438 @@ ELF2UF2Build/fast:
 	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/ELF2UF2Build.dir/build.make blink/CMakeFiles/ELF2UF2Build.dir/build
 .PHONY : ELF2UF2Build/fast
 
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.i: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.s: Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.s
+
 Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_sync/critical_section.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_sync/critical_section.obj
 
@@ -360,6 +792,30 @@ Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c.s:
 	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c.s
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c.s
 
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.i: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.s: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
+
 Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.obj
 
@@ -415,6 +871,30 @@ Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.ob
 Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj:
 	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.i: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.s: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
 
 Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj
@@ -744,6 +1224,30 @@ Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_s
 	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
 
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+
 Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj
 
@@ -1000,29 +1504,77 @@ Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s:
 	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 
-Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj
 
 # target to build an object file
-Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj:
-	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
 
-Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i
 
 # target to preprocess a source file
-Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i:
-	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
-.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
 
-Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s
 
 # target to generate assembly for a file
-Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s:
-	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
-.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
 
 Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.obj
@@ -1047,6 +1599,30 @@ Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.s: Users
 Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s:
 	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build && $(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
 
 blink.obj: blink.c.obj
 .PHONY : blink.obj
@@ -1082,6 +1658,60 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... ELF2UF2Build"
 	@echo "... blink"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.s"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_sync/critical_section.obj"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_sync/critical_section.i"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_sync/critical_section.s"
@@ -1109,6 +1739,9 @@ help:
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.obj"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.i"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.s"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.obj"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.i"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.s"
@@ -1116,6 +1749,9 @@ help:
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.i"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.s"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.s"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.i"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.s"
@@ -1157,6 +1793,9 @@ help:
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_double/double_math.i"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_double/double_math.s"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.obj"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.i"
@@ -1189,12 +1828,21 @@ help:
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.obj"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.i"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.s"
-	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj"
-	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i"
-	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.obj"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.i"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s"
 	@echo "... blink.obj"
 	@echo "... blink.i"
 	@echo "... blink.s"

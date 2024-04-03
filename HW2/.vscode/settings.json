@@ -2,4 +2,8 @@
     "cmake.environment": {
     "PICO_SDK_PATH":"/Users/SeanChneg/Desktop/Pico/pico-sdk"
     },
+    "files.associations": {
+      "stdlib.h": "c",
+      "time.h": "c"
+    },
   }

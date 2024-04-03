@@ -688,19 +688,355 @@ blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s"
 	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 
-blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: blink/CMakeFiles/blink.dir/flags.make
-blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
-blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
-	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
 
-blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i"
-	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
 
-blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s"
-	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: blink/CMakeFiles/blink.dir/flags.make
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: blink/CMakeFiles/blink.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj -MF CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj.d -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c > CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i
+
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c -o CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
 
 # Object files for target blink
 blink_OBJECTS = \
@@ -749,7 +1085,31 @@ blink_OBJECTS = \
 "CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj" \
 "CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj" \
 "CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj" \
-"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj" \
+"CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj"
 
 # External object files for target blink
 blink_EXTERNAL_OBJECTS =
@@ -799,11 +1159,35 @@ blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sd
 blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
 blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
 blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+blink/blink.elf: blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
 blink/blink.elf: blink/CMakeFiles/blink.dir/build.make
 blink/blink.elf: pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 blink/blink.elf: blink/CMakeFiles/blink.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Linking CXX executable blink.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/SeanChneg/Desktop/Sean/HW2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Linking CXX executable blink.elf"
 	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/blink.dir/link.txt --verbose=$(VERBOSE)
 	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-objcopy -Oihex /Users/SeanChneg/Desktop/Sean/HW2/build/blink/blink.elf blink.hex
 	cd /Users/SeanChneg/Desktop/Sean/HW2/build/blink && /usr/local/bin/arm-none-eabi-objcopy -Obinary /Users/SeanChneg/Desktop/Sean/HW2/build/blink/blink.elf blink.bin

@@ -1,7 +1,6 @@
-blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio/driver.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h \
+blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: \
+ /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c \
+ /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/include/hardware/flash.h \
  /Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_base/include/pico.h \
  /Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_base/include/pico/types.h \
  /Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_base/include/pico/assert.h \
@@ -31,23 +30,9 @@ blink/CMakeFiles/blink.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/
  /Applications/ArmGNUToolchain/13.2.Rel1/arm-none-eabi/arm-none-eabi/include/sys/cdefs.h \
  /Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_base/include/pico/types.h \
  /Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_base/include/pico/error.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h \
+ /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_bootrom/include/pico/bootrom.h \
+ /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/ssi.h \
  /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/sio.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/interp.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/padsbank0.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/iobank0.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/io_bank0.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl.h \
- /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h
+ /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/ssi.h \
+ /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/ioqspi.h \
+ /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/io_qspi.h

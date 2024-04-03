@@ -295,10 +295,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/usr/local/bin/arm-none-eabi-g++"
 		},
 		{
@@ -423,10 +423,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/usr/local/bin/arm-none-eabi-gcc"
 		},
 		{
@@ -987,7 +987,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "pico_examples"
+			"value" : "nick_pico_examples"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1507,7 +1507,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : " /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/cmsis /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/cmsis /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/cmsis /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/cmsis /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/cmsis /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/cmsis /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/cmsis /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/cmsis /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/cmsis /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs"
+			"value" : " /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/cmsis /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2040/hardware_regs"
 		},
 		{
 			"name" : "PICO_DOXYGEN_PATHS",
@@ -1774,19 +1774,7 @@
 			"value" : ""
 		},
 		{
-			"name" : "pico-sdk-tools_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "The directory containing a CMake configuration file for pico-sdk-tools."
-				}
-			],
-			"type" : "PATH",
-			"value" : "pico-sdk-tools_DIR-NOTFOUND"
-		},
-		{
-			"name" : "pico_examples_BINARY_DIR",
+			"name" : "nick_pico_examples_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1798,7 +1786,7 @@
 			"value" : "/Users/SeanChneg/Desktop/Sean/HW2/build"
 		},
 		{
-			"name" : "pico_examples_IS_TOP_LEVEL",
+			"name" : "nick_pico_examples_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1810,7 +1798,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "pico_examples_SOURCE_DIR",
+			"name" : "nick_pico_examples_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1820,6 +1808,18 @@
 			],
 			"type" : "STATIC",
 			"value" : "/Users/SeanChneg/Desktop/Sean/HW2"
+		},
+		{
+			"name" : "pico-sdk-tools_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for pico-sdk-tools."
+				}
+			],
+			"type" : "PATH",
+			"value" : "pico-sdk-tools_DIR-NOTFOUND"
 		},
 		{
 			"name" : "pico_sdk_BINARY_DIR",

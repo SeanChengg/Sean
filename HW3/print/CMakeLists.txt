@@ -3,7 +3,7 @@ add_executable(print
         )
 
 # pull in common dependencies
-target_link_libraries(print pico_stdlib)
+target_link_libraries(print pico_stdlib hardware_adc)
 
 pico_enable_stdio_usb(print 1)
 pico_enable_stdio_uart(print 0)

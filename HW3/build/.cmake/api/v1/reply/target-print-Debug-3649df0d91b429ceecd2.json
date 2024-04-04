@@ -470,6 +470,10 @@
 				{
 					"backtrace" : 2,
 					"path" : "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/include"
 				}
 			],
 			"language" : "C",
@@ -539,7 +543,8 @@
 				65,
 				66,
 				67,
-				68
+				68,
+				69
 			]
 		},
 		{
@@ -909,6 +914,10 @@
 				{
 					"backtrace" : 2,
 					"path" : "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/include"
 				}
 			],
 			"language" : "ASM",
@@ -1310,6 +1319,10 @@
 				{
 					"backtrace" : 2,
 					"path" : "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/include"
 				}
 			],
 			"language" : "CXX",
@@ -2249,7 +2262,8 @@
 				65,
 				66,
 				67,
-				68
+				68,
+				69
 			]
 		},
 		{
@@ -2684,6 +2698,12 @@
 			"backtrace" : 2,
 			"compileGroupIndex" : 0,
 			"path" : "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -1024,6 +1024,20 @@ print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s"
 	cd /Users/SeanChneg/Desktop/Sean/HW3/build/print && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c -o CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
 
+print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: print/CMakeFiles/print.dir/flags.make
+print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c
+print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: print/CMakeFiles/print.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/SeanChneg/Desktop/Sean/HW3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj"
+	cd /Users/SeanChneg/Desktop/Sean/HW3/build/print && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj -MF CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj.d -o CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj -c /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c
+
+print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i"
+	cd /Users/SeanChneg/Desktop/Sean/HW3/build/print && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c > CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i
+
+print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s"
+	cd /Users/SeanChneg/Desktop/Sean/HW3/build/print && /usr/local/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c -o CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
+
 # Object files for target print
 print_OBJECTS = \
 "CMakeFiles/print.dir/print.c.obj" \
@@ -1094,7 +1108,8 @@ print_OBJECTS = \
 "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj" \
 "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj" \
 "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj" \
-"CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
+"CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj" \
+"CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj"
 
 # External object files for target print
 print_EXTERNAL_OBJECTS =
@@ -1168,10 +1183,11 @@ print/print.elf: print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sd
 print/print.elf: print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj
 print/print.elf: print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
 print/print.elf: print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+print/print.elf: print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
 print/print.elf: print/CMakeFiles/print.dir/build.make
 print/print.elf: pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 print/print.elf: print/CMakeFiles/print.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/SeanChneg/Desktop/Sean/HW3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Linking CXX executable print.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/SeanChneg/Desktop/Sean/HW3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Linking CXX executable print.elf"
 	cd /Users/SeanChneg/Desktop/Sean/HW3/build/print && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/print.dir/link.txt --verbose=$(VERBOSE)
 	cd /Users/SeanChneg/Desktop/Sean/HW3/build/print && /usr/local/bin/arm-none-eabi-objcopy -Oihex /Users/SeanChneg/Desktop/Sean/HW3/build/print/print.elf print.hex
 	cd /Users/SeanChneg/Desktop/Sean/HW3/build/print && /usr/local/bin/arm-none-eabi-objcopy -Obinary /Users/SeanChneg/Desktop/Sean/HW3/build/print/print.elf print.bin

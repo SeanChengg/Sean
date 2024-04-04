@@ -792,6 +792,30 @@ Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c.s:
 	cd /Users/SeanChneg/Desktop/Sean/HW3/build && $(MAKE) $(MAKESILENT) -f print/CMakeFiles/print.dir/build.make print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c.s
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c.s
 
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.obj
+
+# target to build an object file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj:
+	cd /Users/SeanChneg/Desktop/Sean/HW3/build && $(MAKE) $(MAKESILENT) -f print/CMakeFiles/print.dir/build.make print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.i: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.i
+
+# target to preprocess a source file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i:
+	cd /Users/SeanChneg/Desktop/Sean/HW3/build && $(MAKE) $(MAKESILENT) -f print/CMakeFiles/print.dir/build.make print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.i
+
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.s: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.s
+
+# target to generate assembly for a file
+Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s:
+	cd /Users/SeanChneg/Desktop/Sean/HW3/build && $(MAKE) $(MAKESILENT) -f print/CMakeFiles/print.dir/build.make print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
+.PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.s
+
 Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.obj: Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
 .PHONY : Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.obj
 
@@ -1715,6 +1739,9 @@ help:
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.obj"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.i"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.s"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.obj"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.i"
+	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.s"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.obj"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.i"
 	@echo "... Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.s"

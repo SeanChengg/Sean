@@ -53,6 +53,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/pheap.c.obj.d"
   "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c.obj"
   "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c.obj.d"
+  "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj"
+  "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj.d"
   "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
   "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj.d"
   "CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"

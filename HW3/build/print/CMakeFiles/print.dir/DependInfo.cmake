@@ -115,6 +115,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/src/common"
   "/Users/SeanChneg/Desktop/Pico/pico-sdk/lib/tinyusb/hw"
   "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include"
+  "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/include"
   )
 
 # The set of dependency files which are needed:
@@ -146,6 +147,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/datetime.c" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/datetime.c.obj" "gcc" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/datetime.c.obj.d"
   "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/pheap.c" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/pheap.c.obj" "gcc" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/pheap.c.obj.d"
   "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c.obj" "gcc" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/common/pico_util/queue.c.obj.d"
+  "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj" "gcc" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj.d"
   "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj" "gcc" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj.d"
   "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj" "gcc" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj.d"
   "/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj" "gcc" "print/CMakeFiles/print.dir/Users/SeanChneg/Desktop/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj.d"

@@ -94,7 +94,7 @@ int main() {
     spi_init(spi_default, 12 * 1000); // SPI at 12kHz
     gpio_set_function(PICO_SPI_SCK_PIN, GPIO_FUNC_SPI);
     gpio_set_function(PICO_SPI_TX_PIN, GPIO_FUNC_SPI);
-
+ 
     gpio_init(PICO_SPI_CSN_PIN);
     gpio_set_dir(PICO_SPI_CSN_PIN, GPIO_OUT);
     gpio_put(PICO_SPI_CSN_PIN, 1);

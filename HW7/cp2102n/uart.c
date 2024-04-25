@@ -2,6 +2,7 @@
 #include <string.h>
 #include "pico/stdlib.h"
 #include "pico/binary_info.h"
+#include "pico/time.h"
 #include "hardware/i2c.h"
 #include "hardware/adc.h"
 #include "hardware/uart.h"
@@ -15,9 +16,6 @@
 #define DATA_BITS 8
 #define STOP_BITS 1
 #define PARITY    UART_PARITY_NONE
-
-// We are using pins 0 and 1, but see the GPIO function select table in the
-// datasheet for information on which other pins can be used.
 #define UART_TX_PIN 0
 #define UART_RX_PIN 1
 
@@ -46,7 +44,6 @@ void on_uart_rx() {
         // drawChar(0,x,ch)
         // x+=5;
         // }
-        
         if (uart_is_writable(UART_ID)) {
             // Change it slightly first!
             ch++;
@@ -68,14 +65,14 @@ int main() {
     gpio_set_dir(LED, GPIO_OUT);
 
     // Set up our UART with a basic baud rate.
-    uart_init(UART_ID, BAUD_RATE);
+    uart_init(UART_ID, 2400);
     // Set the TX and RX pins by using the function select on the GPIO
     gpio_set_function(UART_TX_PIN, GPIO_FUNC_UART);
     gpio_set_function(UART_RX_PIN, GPIO_FUNC_UART);
 
     // The call will return the actual baud rate selected, which will be as close as
     // possible to that requested
-    //int __unused actual = uart_set_baudrate(UART_ID, BAUD_RATE);
+    int __unused actual = uart_set_baudrate(UART_ID, BAUD_RATE);
 
     // Set UART flow control CTS/RTS, we don't want these, so turn them off
     uart_set_hw_flow(UART_ID, false, false);
@@ -102,17 +99,17 @@ int main() {
     // Initialize SDA and SCL pins on Pico
     gpio_init(PICO_I2C_SDA_PIN);
     gpio_init(PICO_I2C_SCL_PIN);
+
+    // Initialize I2C
+    i2c_init(i2c_default, 100*1000);
     gpio_set_function(PICO_I2C_SDA_PIN, GPIO_FUNC_I2C);
     gpio_set_function(PICO_I2C_SCL_PIN, GPIO_FUNC_I2C);
 
-    // Initialize I2C
-    i2c_init(i2c_default, BAUD_RATE);
-
     // Initialize SSD1306
     ssd1306_setup();
-    printf("UART initialized. Waiting for data...\n");
+    //printf("UART initialized. Waiting for data...\n");
 
-    uart_puts(UART_ID, "\nHello, uart interrupts\n");
+    
     int i = 0;
     char message[100];
     while(1){
@@ -121,8 +118,23 @@ int main() {
         sleep_ms(100);
         gpio_put(LED, 0);
         sleep_ms(100);
-        tight_loop_contents();
-        
+
+        ssd1306_clear();
+        // printf("Enter a character:");
+        // scanf("%c", &message);
+        // ssd1306_drawString(1,1,message);
+
+
+        printf("Enter a string: ");
+        scanf("%s", message);
+        size_t len = strlen(message);
+        if (len > 0 && message[len - 1] == '\n') {
+            message[len - 1] = '\0';
+        }
+        ssd1306_drawString(1, 1, message);
+
+
+        //tight_loop_contents();
 
         // unsigned int start = to_us_since_boot(get_absolute_time());
         // sprintf(message, "i = %d", i);

@@ -3,7 +3,7 @@ add_executable(dac
         )
 
 # pull in common dependencies
-target_link_libraries(dac pico_stdlib hardware_adc hardware_spi)
+target_link_libraries(dac pico_stdlib hardware_adc hardware_i2c)
 pico_enable_stdio_usb(dac 1)
 pico_enable_stdio_uart(dac 0)
 

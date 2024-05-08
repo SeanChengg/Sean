@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/SeanChneg/Desktop/Sean/HW3/print",
-      "program": "/Users/SeanChneg/Desktop/Sean/HW3/print/build/Debug/outDebug"
+      "cwd": "/Users/SeanChneg/Desktop/Sean1/HW5",
+      "program": "/Users/SeanChneg/Desktop/Sean1/HW5/build/Debug/outDebug"
     }
   ]
 }

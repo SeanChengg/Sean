@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/Users/SeanChneg/Desktop/Sean1/HW8/build/rpizerow/CMakeFiles/ELF2UF2Build
+/Users/SeanChneg/Desktop/Sean1/HW8/build/rpizerow/CMakeFiles/ELF2UF2Build.rule
+/Users/SeanChneg/Desktop/Sean1/HW8/build/rpizerow/CMakeFiles/ELF2UF2Build-complete.rule
+/Users/SeanChneg/Desktop/Sean1/HW8/build/rpizerow/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/Users/SeanChneg/Desktop/Sean1/HW8/build/rpizerow/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/Users/SeanChneg/Desktop/Sean1/HW8/build/rpizerow/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/Users/SeanChneg/Desktop/Sean1/HW8/build/rpizerow/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/Users/SeanChneg/Desktop/Sean1/HW8/build/rpizerow/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/Users/SeanChneg/Desktop/Sean1/HW8/build/rpizerow/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/Users/SeanChneg/Desktop/Sean1/HW8/build/rpizerow/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule

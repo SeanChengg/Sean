@@ -10,7 +10,6 @@
 const uint8_t PICO_I2C_SCL_PIN = 21;
 const uint8_t PICO_I2C_SDA_PIN = 20;
 
-
 //int i = 0;
 //char message[50];
 //sprintf(message, "hello %d", i);
